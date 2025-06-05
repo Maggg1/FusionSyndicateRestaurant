@@ -1,0 +1,16 @@
+Important Software Downloads for Fusion Syndicate
+==================================================
+
+Please install the following software before setting up the project:
+
+1. XAMPP (Web Server and Database Server)
+   - Download Link: https://www.apachefriends.org/index.html
+   - Purpose: To run the PHP project and manage the MySQL database.
+
+2. Notepad++ (Text Editor)
+   - Download Link: https://notepad-plus-plus.org/downloads/
+   - Purpose: To easily edit PHP, HTML, and other code files.
+
+Note:
+- Install XAMPP first to set up your local server environment.
+- Install Notepad++ to make code editing easier and more organized.
